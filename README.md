@@ -20,6 +20,7 @@ Furthermore, the best model is the logistic regression model, with an accuracy s
 
 - Linux command line
 - Project Jupyter
+- Any other Python IDE (Integrated Development Environment)
 
 ### Installing
 
