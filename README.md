@@ -14,6 +14,20 @@ The results showed that a complex machine-learning model does not necessarily pr
 
 Furthermore, the best model is the logistic regression model, with an accuracy score of 86.9%, followed by the Support Vector model, 86.7%, and the Decision tree, 86.15%. The LSTM model had the lowest overall accuracy score of 35%, proving that a neural network model may not outperform standard statistical models in Python. Although further work needs to be done to improve the performance of the classification models, throughout this project, I have developed a better understanding of applying different data science concepts to solve real-world problems. I learned that time, computational complexity, and code readability are the three most important topics to consider in this project. For instance, computational complexity impacts the amount of time for the models to run successfully and improve their quality. Code readability is another important thing to consider as it is easy to get lost in the construction of this notebook by not being able to understand where to edit code to optimize the model’s performances. In future studies, I plan on expanding this work to incorporate more advanced topics in data science to better support individuals in the mental health community. 
 
+## Getting Started
+
+### Dependencies
+
+- Linux command line
+
+### Installing
+
+Please ensure that you have Project Jupyter downloaded to run the .ipynb file 
+
+### Executing program
+
+Open the terminal in your device and run jupyter lab - this will open up the jupyter notebook platform on your browser
+Next import the .ipynb file to begin running the project! 
 
 ## Author
 
