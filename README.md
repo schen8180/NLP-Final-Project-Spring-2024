@@ -1,6 +1,6 @@
 # DATA 303 Final Project
 
-For this Natural Language Processing project, I incorporated the fundamentals of NLP to create, compare, and contrast different machine learning models that consider user texts and accurately classify the type of emotion they convey.
+For this Natural Language Processing project, I incorporated the fundamentals of NLP to create, compare, and contrast different machine learning models that take in user texts and accurately classify the type of emotion they convey.
 
 ## Description
 
